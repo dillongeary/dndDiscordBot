@@ -7,8 +7,9 @@ Features include:
 - Advantage and Disadvante Rolling
 - Initiative Tracker
 - Character Stat Block Generator
+- Personalised Rolls
+- Discord Slash Commands
 
 Future Features:
 - XP Calculator
 - XP Tracker
-- Personalised Rolls
